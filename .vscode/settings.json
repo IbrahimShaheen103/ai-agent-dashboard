@@ -1,0 +1,10 @@
+{
+    "chat.mcp.serverSampling": {
+        "ai-agent-dashboard/.mcp.json: my-mcp-server-a1fb36c1": {
+            "allowedModels": [
+                "copilotcli/auto",
+                "copilot/auto"
+            ]
+        }
+    }
+}
