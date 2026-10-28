@@ -5,7 +5,7 @@ export default async function UsersPage() {
   const users = await getUsers();
 
   return (
-    <main className="mx-auto w-full max-w-6xl px-6 py-12 sm:px-8">
+    <main className="mx-auto w-full max-w-6xl px-4 py-12 sm:px-8">
       <header className="max-w-2xl">
         <p className="text-sm font-semibold uppercase tracking-wider text-blue-700 dark:text-blue-400">
           Directory
